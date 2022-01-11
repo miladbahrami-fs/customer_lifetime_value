@@ -12,7 +12,7 @@ Not all customers are equally important to a firm. Maintaining long-term relatio
 
 In every business it is important to find the most valuable customers. The [Pareto Principle](https://wikipedia.org/wiki/Pareto_principle) says 20% of your customers represent 80% of your sales. So it would be a great opportunity for the company, if we could identify that 20%, not only historically, but in the future as well. CLV can help us to identify these customers.
 
-![alt text](https://github.com/miladbahrami-fs/customer_lifetime_value/blob/main/data/pareto.jpeg)
+![image info](./images/pareto.jpeg)
 
 ## Objectives
 The primary goal of this work is to build a probabilistic model for forecasting customer lifetime value in non-contractual setting on an individual level.
